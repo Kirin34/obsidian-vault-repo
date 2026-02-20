@@ -2,6 +2,10 @@
   "remoteURL": "https://github.com/Kirin34/obsidian-vault-repo.git",
   "gitLocation": "",
   "syncinterval": 0,
+<<<<<<< HEAD
   "isSyncOnLoad": true,
+=======
+  "isSyncOnLoad": false,
+>>>>>>> e33f0943a637875a6083946d099d370d62ff7749
   "checkStatusOnLoad": true
 }
