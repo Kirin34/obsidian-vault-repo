@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allianz/Az-italy/Migrazione FCP/🗂️ Migrazione Applicazione — claims-assistant.md",
+                "file": "Allianz/Az-italy/Migrazione FCP/🗂️ Migrazione Applicazione — claims-va-engine (claims-assistant).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🗂️ Migrazione Applicazione — claims-assistant"
+              "title": "🗂️ Migrazione Applicazione — claims-va-engine (claims-assistant)"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allianz/Az-italy/Knowledge base/GITHUB_REPO_MODULE_AND_WRAPPER_GUIDE.md",
+                "file": "Allianz/Az-italy/StoryBoard giornaliera attività DevOps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GITHUB_REPO_MODULE_AND_WRAPPER_GUIDE"
+              "title": "StoryBoard giornaliera attività DevOps"
             }
           }
         ],
@@ -215,20 +215,20 @@
   },
   "active": "710e95c6a0b5b4e4",
   "lastOpenFiles": [
-    "Allianz/Az-italy/Knowledge base/Terraform Allianz GitHub Repo Modules – Guida completa (base + microservice).md",
+    "Allianz/Az-italy/Migrazione FCP/🗂️ Migrazione Applicazione — claims-va-engine (claims-assistant).md",
+    "Allianz/Az-italy/Migrazione FCP/Index.base",
+    "Allianz/Az-italy/StoryBoard giornaliera attività DevOps.md",
     "Allianz/Az-italy/Knowledge base/GITHUB_REPO_MODULE_AND_WRAPPER_GUIDE.md",
-    "Allianz/Az-italy/Migrazione FCP/🗂️ Migrazione Applicazione — claims-assistant.md",
+    "Allianz/Az-italy/Knowledge base/Terraform Allianz GitHub Repo Modules – Guida completa (base + microservice).md",
     "Allianz/Az-italy/Migrazione FCP/🗂️ Migrazione Applicazione — claims-va-engine.md",
     "Untitled.canvas",
     "Untitled.md",
     "Untitled 1.md",
     "Allianz/Az-italy/Knowledge base",
-    "Allianz/Az-italy/StoryBoard giornaliera attività DevOps.md",
     "Allianz/Az-italy/Setup AZ-ITALY/Untitled.md",
     "Allianz/Az-italy/Setup AZ-ITALY/Setup AZ-ITALY.md",
     "Allianz/Az-italy/Setup AZ-ITALY/ServiceNOW Roles.md",
     "Allianz/Az-italy/Setup AZ-ITALY/AWS EKS - Update Kubeconfig.md",
-    "Allianz/Az-italy/Migrazione FCP/Index.base",
     "2026-02-17.md",
     "Untitled.base",
     "Indice.base",
@@ -253,7 +253,6 @@
     "Allianz/Hypercare/Tasks/RITM-CHG aperte per 09.01.md",
     "Allianz/Hypercare/Setup/AWS FCP conf.md",
     "Formazione/Networking Fundamentals.md",
-    "Allianz/Hypercare/Tasks/Link Task DevOps attività.md",
     "docker-buildx-du-output.txt",
     "Senza nome 1.base",
     "Senza nome 1.canvas",

@@ -73,3 +73,26 @@ Oggi devo concentrarmi sulla parte di claims-va engine e az-gotenberg netpols.  
 
 
 ## NOTE:
+
+---
+# 2/20
+
+## Backlog Attività:
+- [[Governance] claims-assistant · Migrazione FCP](https://github.developer.allianz.io/orgs/az-italy/projects/23/views/1?pane=issue&itemId=68289&issue=az-italy%7Cdevops-governance%7C4581) - *IN CORSO*
+- [[Governance] Migrate the application prediction to FCP · Migrazione FCP](https://github.developer.allianz.io/orgs/az-italy/projects/23/views/1?pane=issue&itemId=70110&issue=az-italy%7Cdevops-governance%7C4692) - *BLOCCATA*
+-  Creazione repository terraform-allianz-docker - *TO DO* (?)
+
+## Daily overview:
+Oggi mi sono concentrato sulla parte di migrazione FCP per claims-assistant, ho capito il giro da fare per claims. Prediction è ancora bloccata. Per la questione di az-gotenberg microservice secondo me non è il top da utilizzare, sto valutando apertamente di fare un nuovo repository.
+
+## Attività svolte: 
+- Migrata la sorgente di claims-va-engine;
+- Analisi creazione nuovo modulo per docker;
+- Disabilitate branch protection rules per claims-va-engine;
+## Prossime attività:
+- Migrazione manifests claims-va-engine;
+- Creazione nuova repo terraform-allianz-docker dopo averne parlato con Paolo;
+- Capire come risolvere le 141 vulnerabilità sull'immagine gotenberg;
+## NOTE:
+
+
