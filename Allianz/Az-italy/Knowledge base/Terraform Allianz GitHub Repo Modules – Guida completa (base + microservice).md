@@ -1,11 +1,4 @@
 
-> Audience: DevOps / Platform engineer (livello **molto tecnico**).  
-> Repo analizzate (zip forniti):  
-> - **terraform-allianz-github-repo** (modulo *base* “repo factory”)  
-> - **terraform-allianz-microservice** (modulo *wrapper* per microservizi)
-
----
-
 ## TL;DR
 
 - **terraform-allianz-github-repo** è un **modulo Terraform “repo factory”**: crea un repository GitHub Enterprise e ci applica governance (branch protection, team access, dependabot security updates, secret standard, custom properties). Inoltre **copià dentro al repo** workflow GitHub Actions “preconfezionati” selezionati tramite `actions_list`.
@@ -47,6 +40,8 @@ Questo pattern scala bene: si possono fare wrapper diversi (es. `terraform-allia
 
 ### 2.2 Creazione repository (`github_repository`)
 In `main.tf`:
+
+
 
 - crea il repo con:
   - `auto_init = true` (repo inizializzato)
