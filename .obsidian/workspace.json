@@ -67,14 +67,12 @@
             "id": "5eec1b0838f5a542",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Senza nome.md",
-                "mode": "source",
-                "source": false
+                "file": "Formazione/Università/Fisica/domande_esame_fisica.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Senza nome"
+              "icon": "lucide-file-text",
+              "title": "domande_esame_fisica"
             }
           }
         ],
@@ -229,19 +227,25 @@
   },
   "active": "5eec1b0838f5a542",
   "lastOpenFiles": [
-    "Senza nome.md",
     "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
+    "Formazione/Università/Fisica/domande_esame_fisica.pdf",
+    "Formazione/Università/Fisica/Lezione 03 - I vettori.md",
+    "Formazione/Università/Fisica/Senza nome 1.md",
+    "Pasted image 20260416141515.png",
+    "Formazione/Università/Fisica/Pasted image 20260414191404.png",
+    "Formazione/Pasted image 20251222183657.png",
+    "Formazione/Università/Fisica/Pasted image 20260416135552.png",
+    "Formazione/Kubernetes.md",
+    "Formazione/NoSQL.md",
+    "Senza nome.md",
     "Allianz/Az-italy/Migrazione FCP/🗂️ Migrazione Applicazione — claims-va-engine (claims-assistant).md",
     "Allianz/Az-italy/Knowledge base/GITHUB_REPO_MODULE_AND_WRAPPER_GUIDE.md",
-    "Pasted image 20260414191404.png",
-    "Formazione/Università/Fisica/Senza nome.md",
     "Formazione/Senza nome.md",
     "Formazione/Università/Fisica",
     "Formazione/Università",
     "Untitled.canvas",
     "Allianz/Pasted image 20251127155016.jpg",
     "Formazione/Networking Fundamentals.md",
-    "Formazione/Pasted image 20251222183657.png",
     "Pasted image 20251212182918.png",
     "Pasted image 20251212182951.png",
     "Allianz/Az-italy/Knowledge base/Terraform Allianz GitHub Repo Modules – Guida completa (base + microservice).md",
@@ -266,11 +270,6 @@
     "Allianz/Az-italy/Migrazione FCP",
     "Allianz/Az-italy/Setup AZ-ITALY",
     "Allianz/Az-italy/Command CheatSheet.md",
-    "Allianz/Hypercare/Reperibilità/Inaz inserimento Reperibilità.md",
-    "Allianz/Hypercare/Reperibilità/Attività mattutine reperibilità.md",
-    "Allianz/Hypercare/warmup.ps1 401.md",
-    "Allianz/Az-italy",
-    "Allianz/Hypercare/Comandi cluster secret.md",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
     "Allianz/Senza nome.canvas"
