@@ -67,12 +67,14 @@
             "id": "5eec1b0838f5a542",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Formazione/Università/Fisica/domande_esame_fisica.pdf"
+                "file": "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "domande_esame_fisica"
+              "icon": "lucide-file",
+              "title": "Lezione 02 - Misure ed Errori"
             }
           }
         ],
@@ -227,8 +229,8 @@
   },
   "active": "5eec1b0838f5a542",
   "lastOpenFiles": [
-    "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
     "Formazione/Università/Fisica/domande_esame_fisica.pdf",
+    "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
     "Formazione/Università/Fisica/Lezione 03 - I vettori.md",
     "Formazione/Università/Fisica/Senza nome 1.md",
     "Pasted image 20260416141515.png",
