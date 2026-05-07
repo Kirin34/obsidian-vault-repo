@@ -1,0 +1,11 @@
+**• Ti è mai capitato di vivere un contesto educativo che ti ha fatto sentire parte di una comunità più ampia?**  
+Sì, mi è capitato soprattutto nei contesti in cui c’era collaborazione tra compagni e un clima di condivisione. In quelle situazioni non mi sentivo solo una studentessa che doveva ascoltare, ma parte di un gruppo in cui ognuno poteva contribuire. Questo mi faceva sentire più coinvolta, motivata e parte di una comunità più ampia.
+
+**• In che modo, nella tua esperienza, il “metodo scientifico” (osservare, sperimentare, verificare) è stato applicato in ambito educativo?**  
+Nella mia esperienza è stato applicato quando non mi limitavo a memorizzare, ma cercavo di capire attraverso l’osservazione e la prova pratica. Per esempio, quando studiavo un argomento e provavo diversi modi per comprenderlo meglio, verificando quale fosse il più efficace per me, stavo usando un approccio simile al metodo scientifico. Questo mi aiutava a imparare in modo più attivo e consapevole.
+
+**• Dewey, influenzato da Darwin, vedeva i bambini come organismi capaci di adattamento. Ricordi un momento in cui ti sei dovuto adattare a un nuovo ambiente di apprendimento? Come hai reagito?**  
+Sì, mi è capitato quando ho dovuto affrontare un nuovo modo di studiare e un diverso contesto formativo. All’inizio mi sono sentita un po’ disorientata, perché dovevo cambiare abitudini e trovare nuovi equilibri. Però, con il tempo, ho reagito cercando di osservare la situazione, adattarmi gradualmente e costruire un metodo più adatto a me. Questa esperienza mi ha resa più flessibile e autonoma.
+
+**• Dewey lega strettamente educazione e democrazia: quali esperienze scolastiche o formative ti hanno fatto sentire ascoltato e partecipe delle decisioni?**  
+Mi sono sentita ascoltata soprattutto quando gli insegnanti lasciavano spazio al dialogo e al confronto, chiedendo il nostro punto di vista e valorizzando le nostre idee. In quei momenti percepivo che la formazione non era qualcosa di imposto dall’alto, ma un’esperienza condivisa. Questo mi faceva sentire più responsabile, più coinvolta e davvero partecipe del percorso educativo.

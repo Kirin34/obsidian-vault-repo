@@ -1,0 +1,12 @@
+
+**1. Quando ripensi alla tua infanzia, quali esperienze “naturali” hanno inciso di più sulla tua crescita?**  
+Ripensando alla mia infanzia, penso che le esperienze che hanno inciso di più sulla mia crescita siano state soprattutto quelle legate al gioco libero, alla curiosità e all’esplorazione. Per esempio, stare all’aria aperta, inventare giochi, osservare quello che avevo intorno e imparare facendo mi ha aiutata a diventare più autonoma e più sicura. Secondo me queste esperienze sono importanti perché insegnano senza far pesare l’apprendimento.
+
+**2. Ricordi un insegnante o educatore che ti ha fatto sentire libero di imparare “inventando” piuttosto che ripetendo? Quali strategie usava?**  
+Sì, ricordo insegnanti che mi hanno fatto sentire più libera di imparare quando non si limitavano a far ripetere le cose a memoria, ma cercavano di coinvolgerci in modo più attivo. Per esempio facevano domande, ci lasciavano ragionare, ci facevano fare esempi concreti o attività pratiche. Questo metodo mi faceva sentire più partecipe e mi aiutava a capire meglio.
+
+**3. Hai mai sperimentato un apprendimento in cui non ti venivano date regole o nozioni dirette, ma eri lasciato a scoprire da sola? Come ti sei sentita?**  
+Sì, mi è capitato di imparare alcune cose più facilmente quando ho potuto scoprirle da sola, magari attraverso un’attività pratica o un’esperienza diretta. All’inizio potevo sentirmi un po’ spaesata, ma poi questa libertà mi faceva sentire più coinvolta e soddisfatta, perché avevo la sensazione di arrivare alla risposta con il mio ragionamento.
+
+**4. Ti sei mai sentita frustrata da un apprendimento troppo teorico o, al contrario, stimolata da un’attività pratica che ti ha fatto “capire da sola”? Puoi raccontare un episodio significativo?**  
+Sì, mi è capitato di sentirmi frustrata quando un argomento veniva spiegato in modo troppo teorico, perché facevo fatica a sentirlo vicino e a capirlo davvero. Al contrario, mi sono sentita più stimolata quando ho potuto imparare attraverso esempi concreti, esercizi o esperienze pratiche. In quei casi capivo meglio e ricordavo di più, perché non stavo solo ascoltando, ma stavo partecipando in prima persona all’apprendimento.

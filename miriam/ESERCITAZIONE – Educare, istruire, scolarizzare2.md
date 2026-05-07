@@ -1,0 +1,11 @@
+**1. Hai mai vissuto o osservato situazioni in cui l’accesso all’istruzione-educazione non era uguale per tutti? Come ti sei sentito di fronte a queste disuguaglianze?**  
+Sì, penso che capiti spesso di osservare situazioni in cui non tutti partono dalle stesse possibilità. Ci sono persone che, per motivi economici, familiari o sociali, fanno più fatica a studiare o a continuare il proprio percorso formativo. Di fronte a queste disuguaglianze provo soprattutto un senso di ingiustizia, perché credo che l’istruzione dovrebbe essere un diritto reale per tutti e non qualcosa che dipende dalla situazione di partenza.
+
+**2. Quali esperienze personali ti hanno fatto percepire l’importanza di un’istruzione-educazione che includa davvero anche le donne e le minoranze?**  
+Secondo me questa importanza si capisce quando ci si accorge che non tutte le persone vengono ascoltate o valorizzate allo stesso modo. Esperienze di studio, di confronto e anche di vita quotidiana fanno capire quanto sia importante che la scuola e l’educazione riconoscano davvero tutti, senza escludere nessuno. Includere donne e minoranze significa dare a tutti la possibilità di esprimersi, crescere e sentirsi rispettati.
+
+**3. In che modo coltivi oggi la tua “perfettibilità”, cioè la possibilità di migliorarti continuamente?**  
+Cerco di coltivarla studiando, riflettendo sulle mie esperienze e cercando di imparare anche dagli errori. Per me migliorarsi non significa diventare perfetti, ma crescere poco alla volta, capire meglio sé stessi e gli altri e sviluppare le proprie capacità. Anche il confronto con idee diverse dalle mie mi aiuta molto a mettermi in discussione e a maturare.
+
+**4. Quali esperienze di istruzione-educazione hanno avuto un impatto significativo sulla tua vita personale o professionale?**  
+Le esperienze che hanno inciso di più su di me sono state quelle in cui non mi sono limitato a memorizzare delle nozioni, ma mi sono sentito coinvolto davvero. In particolare, le situazioni in cui ho potuto ragionare con la mia testa, confrontarmi con gli altri e collegare quello che studiavo alla vita reale mi hanno lasciato qualcosa di importante. Sono esperienze che hanno influenzato non solo il mio modo di studiare, ma anche il mio modo di pensare e di vedere il mio percorso personale e professionale.

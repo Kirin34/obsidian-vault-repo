@@ -1,0 +1,23 @@
+Rousseau dà molta importanza al **riconoscimento dell’infanzia**. Per lui il bambino non deve più essere visto come un **piccolo adulto** o come un **vaso vuoto da riempire**, ma come una fase specifica della vita, con caratteristiche proprie che vanno **conosciute e rispettate**. L’infanzia quindi non è un periodo difettoso o incompleto, ma una fase **naturale** dello sviluppo umano.
+
+Secondo Rousseau, proprio perché il bambino ha una sua identità, l’educazione deve partire da lui, dai suoi tempi e dalle sue possibilità. Questa idea è importante perché mette al centro lo **sviluppo dell’essere umano** in senso biologico, psicologico, sociale ed educativo. Da qui nasce anche una visione nuova dell’infanzia, che nel tempo diventerà sempre più importante anche sul piano scientifico, culturale e giuridico.
+
+Un altro concetto centrale è che l’uomo, a differenza dell’animale, non è programmato in modo rigido: nasce **naturalmente buono**, **libero** e **ricco di potenzialità**. Per questo Rousseau parla di **perfettibilità**, cioè della capacità dell’essere umano di svilupparsi, migliorarsi e far crescere le proprie facoltà nel tempo, sia come individuo sia come specie.
+
+In conclusione, riconoscere l’infanzia significa riconoscere che il bambino ha valore in sé e che l’educazione deve aiutarlo a sviluppare la sua **libertà** e le sue **potenzialità**. Inoltre, per Rousseau pedagogia e politica sono collegate: non a caso **Emilio** e **Il contratto sociale** nascono nello stesso periodo, perché educazione, sviluppo umano e società fanno parte di una stessa visione.
+Per Rousseau **rispettare la natura** significa educare il bambino senza imporgli troppo presto regole, saperi e valori della società, che lui considera spesso corrotta. L’educazione deve quindi **confidare nella natura** e lasciare che il bambino cresca secondo i suoi tempi, attraverso l’esperienza diretta e non attraverso parole astratte o imposizioni.
+
+Per questo Rousseau parla di **metodo inattivo**: l’educatore non deve forzare l’apprendimento, ma creare le condizioni perché il bambino impari dal contatto con le **cose**, con il mondo reale e con le **sensazioni**. Nei primi dodici anni, infatti, è soprattutto importante la **lezione delle cose**, cioè un apprendimento concreto che sviluppi il corpo, i sensi e il rapporto diretto con il mondo.
+
+Solo più avanti, mettendo in relazione sensazioni e cose, il bambino diventa un essere più razionale; poi, con la **pubertà** e l’ingresso nell’età adulta, diventa anche un essere **sociale e morale**. Anche in questa fase, però, per Rousseau bisogna rispettare il ritmo naturale della crescita.
+
+Infine, Rousseau collega tutto questo anche alla **formazione etica**: la **coscienza morale** è vista come qualcosa di naturale, quasi un **istinto divino**, e per svilupparsi bene deve essere protetta dalle influenze corrotte della società. Per questo immagina il bambino affidato al **precettore**, lontano dalla città, così da poter crescere in modo più autentico.
+Rousseau dà molta importanza al **riconoscimento dell’infanzia**. Per lui il bambino non è un **piccolo adulto** né un **vaso vuoto da riempire**, ma una fase specifica della vita, con caratteristiche proprie che devono essere **conosciute e rispettate**. L’infanzia quindi ha un valore positivo ed è una parte naturale dello sviluppo umano.
+
+Un altro concetto fondamentale è che l’uomo è **libero**, **naturalmente buono** e dotato di **perfettibilità**, cioè della capacità di svilupparsi e migliorarsi nel tempo. Per questo l’educazione ha senso: deve aiutare la persona a far crescere le sue potenzialità. Questa idea riguarda non solo il singolo individuo, ma anche la società, e infatti in Rousseau **pedagogia e politica** sono strettamente collegate.
+
+Accanto a questo c’è il tema del **rispetto della natura**. Educare, per Rousseau, significa **confidare nella natura** e non imporre troppo presto regole, nozioni e valori della società. Il bambino deve imparare soprattutto attraverso il **contatto diretto con il mondo**, con le **sensazioni** e con la **lezione delle cose**.
+
+Rousseau parla infatti di **metodo inattivo**: non bisogna forzare o anticipare l’apprendimento, ma rispettarne la **gradualità**. Nei primi anni conta soprattutto lo sviluppo del **corpo** e dei **sensi**; poi arriva la fase della **ragione**; infine, con la crescita, la persona diventa anche un essere **sociale e morale**.
+
+Infine, Rousseau pensa che anche la **coscienza morale** si sviluppi in modo naturale e la considera quasi un **istinto divino**. Per questo il bambino deve essere protetto dalle influenze corrotte della società, così da poter crescere in modo più autentico e armonioso.
