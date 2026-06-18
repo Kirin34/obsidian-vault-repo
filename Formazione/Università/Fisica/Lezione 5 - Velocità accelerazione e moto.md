@@ -1665,3 +1665,96 @@ $$
 | Q2 | La velocità verticale è la derivata della componente $y$ | $v_y=0\ m/s$ |
 | Q3 | La derivata di un versore è perpendicolare al versore | Componente parallela $=0$ |
 | Q4 | Velocità = derivata della posizione; accelerazione = derivata della velocità | $\vec{v}(t)=(4.0+12.0t)\vec{i}+13.0t\vec{k}$; $|\vec{a}|=17.7\ m/s^2$ |
+
+# Domande quiz - Cinematica
+
+## Domanda 1
+**Qual è la velocità angolare di un punto che gira con una frequenza di 100 Hz?**
+
+### Risposta
+$$
+\omega = 628 \ rad/s
+$$
+
+### Svolgimento
+La velocità angolare si calcola con:
+
+$$
+\omega = 2\pi f
+$$
+
+Con:
+
+$$
+f = 100 \ Hz
+$$
+
+quindi:
+
+$$
+\omega = 2\pi \cdot 100 = 200\pi
+$$
+
+$$
+\omega \approx 628 \ rad/s
+$$
+
+---
+
+## Domanda 2
+**Un corpo si muove con velocità 20 m/s su una traiettoria circolare di raggio 30 m. Qual è la sua velocità angolare?**
+
+### Risposta
+$$
+\omega = 0,66 \ rad/s
+$$
+
+### Svolgimento
+La relazione tra velocità lineare e velocità angolare è:
+
+$$
+\omega = \frac{v}{R}
+$$
+
+Con:
+
+$$
+v = 20 \ m/s
+$$
+
+$$
+R = 30 \ m
+$$
+
+quindi:
+
+$$
+\omega = \frac{20}{30}
+$$
+
+$$
+\omega \approx 0,66 \ rad/s
+$$
+
+---
+
+## Domanda 3
+**Un corpo percorre a velocità costante una circonferenza di raggio R = 6 m in 8 s. Qual è la sua velocità?**
+
+### Risposta
+$$
+v = 4,71 \ m/s
+$$
+
+### Svolgimento
+Se il corpo percorre una circonferenza completa, lo spazio percorso è:
+
+$$
+s = 2\pi R
+$$
+
+Con:
+
+$$
+R = 6m
+$$

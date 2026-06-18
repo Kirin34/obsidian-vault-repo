@@ -4,61 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c8bbbe4df71ddf",
+        "id": "c6c77471cb3d3fc7",
         "type": "tabs",
         "children": [
           {
-            "id": "32379bda2fe12209",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Formazione/Università/Fisica/domande_esame_fisica.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "domande_esame_fisica"
-            }
-          },
-          {
-            "id": "0219489b7c86a57b",
+            "id": "bf0f28c8adbd8b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Allianz/Az-italy/StoryBoard giornaliera attività DevOps.md",
+                "file": "Formazione/Università/Fisica/Lezione 10 - Il Principio d'inerzia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StoryBoard giornaliera attività DevOps"
-            }
-          },
-          {
-            "id": "3cc7ee38e97d546c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lezione 02 - Misure ed Errori"
-            }
-          },
-          {
-            "id": "5f60db22c3410463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formazione/Università/Fisica/Lezione 03 - I vettori.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lezione 03 - I vettori"
+              "title": "Lezione 10 - Il Principio d'inerzia"
             }
           }
         ]
@@ -210,23 +170,31 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "32379bda2fe12209",
+  "active": "bf0f28c8adbd8b44",
   "lastOpenFiles": [
-    "Formazione/Università/Fisica/Lezione 4 - Prodotto Scalare e Vettoriale (1).md",
-    "Formazione/Università/Fisica/Lezione 4 - Prodotto Scalare e Vettoriale.md",
-    "Formazione/Università/Fisica/Lezione 5 - Velocità accelerazione e moto (1).md",
-    "Formazione/Università/Fisica/Lezione 5 - Velocità accelerazione e moto.md",
+    "Pasted image 20260618231947.png",
     "Formazione/Università/Fisica/domande_esame_fisica 1.pdf",
-    "Formazione/Università/Fisica/A9R10vh8sc_11q004r_kkc.tmp",
     "Formazione/Università/Fisica/domande_esame_fisica.pdf",
+    "Formazione/Università/Fisica/Lezione 10 - Il Principio d'inerzia.md",
+    "Formazione/Università/Fisica/Lezione 9 – Dinamica classica.md",
+    "Pasted image 20260618220956.png",
+    "Formazione/Università/Fisica/Lezione 5 - Velocità accelerazione e moto.md",
+    "Formazione/Università/Fisica/Lezione 6 - Moto Rettilineo.md",
+    "Formazione/Università/Fisica/Lezione 7 - MOTO CIRCOLARE E MOTI RELATIVI.md",
     "Formazione/Università/Fisica/Risposte domande_esame_fisica.md",
     "Formazione/Università/Fisica/Lezione 03 - I vettori.md",
+    "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
+    "Allianz/Az-italy/StoryBoard giornaliera attività DevOps.md",
+    "Formazione/Università/Fisica/A9R17t502a_7wlja3_78s.tmp",
+    "Formazione/Università/Fisica/Lezione 4 - Prodotto Scalare e Vettoriale.md",
+    "Formazione/Università/Fisica/Lezione 4 - Prodotto Scalare e Vettoriale (1).md",
+    "Formazione/Università/Fisica/Lezione 5 - Velocità accelerazione e moto (1).md",
+    "Formazione/Università/Fisica/A9R10vh8sc_11q004r_kkc.tmp",
     "Pasted image 20260502115458.png",
     "Pasted image 20260502115427.png",
     "Pasted image 20260502115350.png",
     "Pasted image 20260502114437.png",
     "Pasted image 20260502114337.png",
-    "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
     "DevOps Cheatsheet.md",
     "miriam/Senza nome 1 1.md",
     "miriam/Senza nome 2 1.md",
@@ -242,12 +210,6 @@
     "miriam/## La relazione educatore-educando.md",
     "Formazione/Kubernetes.md",
     "Formazione/Pasted image 20251222183657.png",
-    "miriam/Senza nome 10 1.md",
-    "miriam/Esercitazione — Il lavoro di gruppo come risorsa.md",
-    "miriam/Senza nome 9 1.md",
-    "miriam/Senza nome 8 1.md",
-    "miriam/Senza nome 7 1.md",
-    "miriam/Senza nome 6 1.md",
     "miriam/ESERCITAZIONE - ENGAGEMENT COME LEGAME TRA PERSONA E AZION.pdf",
     "miriam/tesina motivazione.pdf",
     "miriam",
@@ -256,8 +218,6 @@
     "Formazione/Università/Fisica/Assets/Pasted image 20260416141515.png",
     "Allianz/Az-italy/Migrazione FCP/Index.base",
     "Allianz/Pasted image 20251127155016.jpg",
-    "Formazione/Università/Fisica/Pasted image 20260416135552.png",
-    "Formazione/Università/Fisica",
     "Untitled.canvas",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
