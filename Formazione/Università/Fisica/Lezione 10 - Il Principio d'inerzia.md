@@ -392,3 +392,118 @@ Il dinamometro funziona associando l’allungamento di una molla alla forza appl
 Maggiore è la forza applicata, maggiore sarà la deformazione della molla.
 
 In questo modo è possibile misurare la forza in maniera operativa, cioè attraverso un effetto osservabile.
+
+
+## Esercizio — Moto con forza costante
+
+Un punto materiale di massa:
+
+$$
+m = 2 \ kg
+$$
+
+parte dall’origine con velocità iniziale:
+
+$$
+v_0 = 5 \ m/s
+$$
+
+diretta lungo l’asse $y$.  
+Sul corpo agisce una forza costante:
+
+$$
+F = 4 \ N
+$$
+
+diretta lungo l’asse $x$.
+
+Per la seconda legge della dinamica:
+
+$$
+F = ma
+$$
+
+quindi l’accelerazione lungo $x$ è:
+
+$$
+a_x = \frac{F}{m} = \frac{4}{2} = 2 \ m/s^2
+$$
+
+Il moto lungo $x$ è uniformemente accelerato:
+
+$$
+x = \frac{1}{2}a_xt^2
+$$
+
+quindi:
+
+$$
+x = t^2
+$$
+
+Il moto lungo $y$ è uniforme:
+
+$$
+y = v_0t = 5t
+$$
+
+Ricavando il tempo da $x = t^2$:
+
+$$
+t = \sqrt{x}
+$$
+
+e sostituendo in $y = 5t$:
+
+$$
+y = 5\sqrt{x}
+$$
+
+La traiettoria del punto è quindi:
+
+$$
+y = 5\sqrt{x}
+$$
+
+---
+
+## Quesiti teorici
+
+### Q.1 — Seconda legge della dinamica
+
+La forza totale applicata a un corpo è uguale al prodotto tra massa e accelerazione:
+
+$$
+\vec{F} = m\vec{a}
+$$
+
+---
+
+### Q.2 — Relatività galileiana
+
+La seconda legge è valida in tutti i sistemi inerziali.  
+Se due sistemi si muovono di moto rettilineo uniforme uno rispetto all’altro, l’accelerazione resta la stessa:
+
+$$
+\vec{a}' = \vec{a}
+$$
+
+Poiché anche la massa non cambia:
+
+$$
+\vec{F}' = m\vec{a}' = m\vec{a} = \vec{F}
+$$
+
+Quindi la legge di Newton è invariata.
+
+---
+
+### Q.3 — Terza legge della dinamica
+
+Se un corpo A esercita una forza su un corpo B, allora B esercita su A una forza uguale e opposta:
+
+$$
+\vec{F}_{A-B} = -\vec{F}_{B-A}
+$$
+
+Questo è il principio di azione e reazione.

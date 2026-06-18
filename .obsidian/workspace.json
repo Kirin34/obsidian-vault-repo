@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formazione/Università/Fisica/Lezione 10 - Il Principio d'inerzia.md",
+                "file": "Formazione/Università/Fisica/Lezione 11 - Le leggi della Dinamica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezione 10 - Il Principio d'inerzia"
+              "title": "Lezione 11 - Le leggi della Dinamica"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
@@ -160,21 +160,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "bf0f28c8adbd8b44",
   "lastOpenFiles": [
+    "Pasted image 20260618234316.png",
+    "Pasted image 20260618234239.png",
+    "Pasted image 20260618233918.png",
+    "Formazione/Università/Fisica/Lezione 10 - Il Principio d'inerzia.md",
+    "Formazione/Università/Fisica/Lezione 11 - Le leggi della Dinamica.md",
     "Pasted image 20260618231947.png",
     "Formazione/Università/Fisica/domande_esame_fisica 1.pdf",
     "Formazione/Università/Fisica/domande_esame_fisica.pdf",
-    "Formazione/Università/Fisica/Lezione 10 - Il Principio d'inerzia.md",
     "Formazione/Università/Fisica/Lezione 9 – Dinamica classica.md",
     "Pasted image 20260618220956.png",
     "Formazione/Università/Fisica/Lezione 5 - Velocità accelerazione e moto.md",
@@ -207,16 +212,12 @@
     "Indice.base",
     "miriam/Martin Buber.md",
     "miriam/## La relazione educatore-educando.md",
-    "Formazione/Kubernetes.md",
     "Formazione/Pasted image 20251222183657.png",
     "miriam/ESERCITAZIONE - ENGAGEMENT COME LEGAME TRA PERSONA E AZION.pdf",
     "miriam/tesina motivazione.pdf",
     "miriam",
     "Formazione/Università/Fisica/Assets",
-    "Formazione/Università/Fisica/Assets/Pasted image 20260414191404.png",
-    "Formazione/Università/Fisica/Assets/Pasted image 20260416141515.png",
     "Allianz/Az-italy/Migrazione FCP/Index.base",
-    "Allianz/Pasted image 20251127155016.jpg",
     "Untitled.canvas",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
