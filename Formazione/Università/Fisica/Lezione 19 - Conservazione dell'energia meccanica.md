@@ -670,7 +670,6 @@ Esempio: nel punto $A$ della figura, l'energia potenziale ha un minimo.
 Quindi $A$ è un punto di equilibrio stabile.
 
 ---
-
 ### Equilibrio instabile
 
 Un punto di **massimo relativo** dell'energia potenziale è un punto di equilibrio instabile.
