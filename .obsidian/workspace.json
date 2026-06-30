@@ -171,23 +171,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Amazon DynamoDB.md",
+                "file": "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Amazon DynamoDB"
+              "title": "Struttura di Lezione 02 - Misure ed Errori"
             }
           },
           {
-            "id": "69e13cefe180ef1b",
+            "id": "0165b2badf0a989d",
             "type": "leaf",
             "state": {
-              "type": "claudian-view",
+              "type": "git-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -207,10 +207,11 @@
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "github-sync:Sync with Remote": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17d3383102d80dc8",
+  "active": "99882f8d2dfc7edb",
   "lastOpenFiles": [
     "Formazione/Università/Fisica/Lezione 22 – Sistema di punti materiali.md",
     "Formazione/Università/Fisica/Lezione 19 - Conservazione dell'energia meccanica.md",
