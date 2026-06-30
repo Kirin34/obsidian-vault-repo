@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formazione/Università/Fisica/Lezione 19 - Conservazione dell'energia meccanica.md",
+                "file": "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezione 19 - Conservazione dell'energia meccanica"
+              "title": "Lezione 02 - Misure ed Errori"
             }
           }
         ],
@@ -179,13 +179,23 @@
               "icon": "lucide-list",
               "title": "Struttura di Amazon DynamoDB"
             }
+          },
+          {
+            "id": "69e13cefe180ef1b",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +206,19 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "realclaudian:Open Claudian": false
     }
   },
   "active": "17d3383102d80dc8",
   "lastOpenFiles": [
+    "Formazione/Università/Fisica/Lezione 22 – Sistema di punti materiali.md",
+    "Formazione/Università/Fisica/Lezione 19 - Conservazione dell'energia meccanica.md",
     "Senza nome.base",
     "Formazione/Università/Fisica/Lezione 21 - Impulso e quantità di moto.md",
     "Formazione/Università/Fisica/Lezione 20 - Ripasso dinamica del punto materiale.md",
     "Formazione/Università/Fisica/Lezione 18 - Energia potenziale.md",
     "Senza nome.md",
-    "Formazione/Università/Fisica/Lezione 19 - Conservazione dell'energia meccanica.md",
     "Formazione/Università/Fisica/Lezione 13 - Forze Apparenti.md",
     "Formazione/Università/Fisica/Lezioni 18 - Energia potenziale (1).md",
     "Formazione/Università/Fisica/Lezioni 18 - Energia potenziale.md",
@@ -246,7 +258,6 @@
     "miriam/tesina motivazione.pdf",
     "miriam",
     "Formazione/Università/Fisica/Assets",
-    "Allianz/Az-italy/Migrazione FCP/Index.base",
     "Untitled.canvas",
     "Senza nome 1.canvas",
     "Senza nome.canvas",
