@@ -176,3 +176,276 @@ Le forze interne possono modificare il moto dei singoli punti del sistema, ma no
 Il moto globale di un sistema di punti materiali dipende solo dalle forze esterne.
 
 Le forze interne influenzano il moto relativo dei punti tra loro, ma non cambiano il moto del centro di massa.
+
+## Sistema di riferimento del centro di massa
+
+Consideriamo un sistema di punti materiali in un sistema di riferimento inerziale $R(Oxyz)$.
+
+Il centro di massa occupa nel tempo la posizione:
+
+$$
+\vec r_{cm}(t) = (x_{cm}(t), y_{cm}(t), z_{cm}(t))
+$$
+
+Si definisce **sistema di riferimento del centro di massa** il riferimento:
+
+$$
+R_{cm}(Cx'y'z')
+$$
+
+che ha:
+
+- origine nel centro di massa $C$;
+- assi paralleli a quelli del sistema $R$.
+
+Quindi il sistema $R_{cm}$ si ottiene dal sistema inerziale $R$ tramite una **traslazione**, senza rotazione degli assi.
+
+---
+
+## Relazione tra le coordinate nei due riferimenti
+
+La posizione del punto $i$ nel riferimento inerziale è:
+
+$$
+\vec r_i = \vec r'_i + \vec r_{cm}
+$$
+
+dove:
+
+- $\vec r_i$ è la posizione nel sistema inerziale;
+- $\vec r'_i$ è la posizione rispetto al centro di massa;
+- $\vec r_{cm}$ è la posizione del centro di massa.
+
+Poiché non c’è rotazione relativa tra i due sistemi, anche le velocità sono legate da:
+
+$$
+\vec v_i = \vec v'_i + \vec v_{cm}
+$$
+
+---
+
+## Quantità di moto nel sistema del centro di massa
+
+Nel riferimento del centro di massa, la quantità di moto totale è:
+
+$$
+\vec P' = \sum_i m_i \vec v'_i
+$$
+
+Usando la relazione tra le velocità:
+
+$$
+\vec P' = \sum_i m_i \vec v_i - M \vec v_{cm}
+$$
+
+Ma sappiamo che:
+
+$$
+\vec P = M \vec v_{cm}
+$$
+
+quindi:
+
+$$
+\vec P' = 0
+$$
+
+Questo significa che nel riferimento del centro di massa la quantità di moto totale del sistema è nulla.
+
+In pratica, nel sistema del centro di massa il sistema complessivo è come se fosse fermo, anche se i singoli punti possono muoversi tra loro.
+
+---
+
+## Sistema inerziale o non inerziale
+
+Il sistema del centro di massa non è sempre inerziale.
+
+È inerziale solo se la risultante delle forze esterne è nulla:
+
+$$
+\vec R^{(e)} = 0
+$$
+
+In questo caso:
+
+$$
+\frac{d\vec P}{dt} = 0
+$$
+
+quindi la quantità di moto totale è costante e anche la velocità del centro di massa è costante.
+
+---
+
+## Teorema di Koenig
+
+Il **teorema di Koenig** permette di scrivere l’energia cinetica totale di un sistema come somma di due contributi:
+
+1. energia cinetica del moto del centro di massa;
+2. energia cinetica interna, cioè rispetto al centro di massa.
+
+Partiamo dall’energia cinetica totale:
+
+$$
+K = \sum_i \frac{1}{2} m_i v_i^2
+$$
+
+Dato che:
+
+$$
+\vec v_i = \vec v'_i + \vec v_{cm}
+$$
+
+allora:
+
+$$
+K =
+\sum_i \frac{1}{2} m_i (\vec v'_i + \vec v_{cm})^2
+$$
+
+Sviluppando:
+
+$$
+K =
+\sum_i \frac{1}{2} m_i v_i'^2
++
+\frac{1}{2} M v_{cm}^2
++
+\sum_i m_i \vec v'_i \cdot \vec v_{cm}
+$$
+
+L’ultimo termine è nullo perché nel sistema del centro di massa:
+
+$$
+\sum_i m_i \vec v'_i = 0
+$$
+
+Quindi rimane:
+
+$$
+K =
+\sum_i \frac{1}{2} m_i v_i'^2
++
+\frac{1}{2} M v_{cm}^2
+$$
+
+Ponendo:
+
+$$
+K' = \sum_i \frac{1}{2} m_i v_i'^2
+$$
+
+si ottiene la formula finale:
+
+$$
+K = K' + \frac{1}{2} M v_{cm}^2
+$$
+
+---
+
+## Significato fisico
+
+L’energia cinetica totale del sistema è data da:
+
+$$
+K = K' + \frac{1}{2} M v_{cm}^2
+$$
+
+dove:
+
+- $K'$ è l’energia cinetica dei punti rispetto al centro di massa;
+- $\frac{1}{2} M v_{cm}^2$ è l’energia cinetica che avrebbe il sistema se tutta la massa fosse concentrata nel centro di massa.
+
+Quindi il moto totale si può separare in:
+
+- **moto interno** dei punti rispetto al centro di massa;
+- **moto globale** del centro di massa.
+
+## Sistema di due punti
+
+Studiamo il caso più semplice di sistema di punti materiali: un sistema formato da **due corpi** non soggetti a forze esterne.
+
+In questo caso agiscono solo le forze interne tra i due corpi, cioè forze uguali e opposte per il terzo principio della dinamica:
+
+$$
+\vec F_{12} = -\vec F_{21}
+$$
+
+Poiché non ci sono forze esterne:
+
+$$
+\vec R^{(e)} = 0
+$$
+
+allora il sistema del centro di massa è inerziale e il centro di massa si muove di moto rettilineo uniforme, oppure resta fermo se scelgo il riferimento del centro di massa.
+
+Nel riferimento del centro di massa vale:
+
+$$
+m_1 \vec r_1 = -m_2 \vec r_2
+$$
+
+Questo significa che i due corpi stanno da parti opposte rispetto al centro di massa $C$, e quello con massa maggiore si trova più vicino al centro di massa.
+
+---
+
+## Forze centrali
+
+Per simmetria, le forze tra i due corpi sono **forze centrali**, cioè dirette lungo la congiungente dei due punti.
+
+La dinamica dei due corpi può essere studiata tramite il moto relativo tra essi.
+
+Si introduce la posizione relativa:
+
+$$
+\vec R = \vec r_2 - \vec r_1
+$$
+
+Il problema dei due corpi può essere trasformato in un problema equivalente con un solo corpo di massa:
+
+$$
+\mu = \frac{m_1 m_2}{m_1 + m_2}
+$$
+
+dove $\mu$ si chiama **massa ridotta**.
+
+L’equazione del moto relativo diventa:
+
+$$
+\mu \vec a_{rel} = \vec F
+$$
+
+oppure:
+
+$$
+\mu \frac{d^2 \vec R}{dt^2} = \vec F
+$$
+
+---
+
+## Massa ridotta
+
+La massa ridotta è:
+
+$$
+\mu = \frac{m_1 m_2}{m_1 + m_2}
+$$
+
+Serve a semplificare il problema dei due corpi.
+
+In pratica, invece di studiare direttamente il moto di entrambi i corpi, posso studiare il moto relativo come se:
+
+- un corpo fosse fermo;
+- l’altro corpo si muovesse con massa equivalente $\mu$.
+
+---
+
+## Idea chiave
+
+Nel sistema di due punti senza forze esterne, il centro di massa non accelera.
+
+Il moto complessivo si può separare in:
+
+- moto del centro di massa;
+- moto relativo dei due corpi.
+
+Il moto relativo può essere trattato come il moto di un solo punto materiale con massa ridotta $\mu$.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
+                "file": "Formazione/Università/Fisica/Lezione 22 – Sistema di punti materiali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lezione 02 - Misure ed Errori"
+              "title": "Lezione 22 – Sistema di punti materiali"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
+                "file": "Formazione/Università/Fisica/Lezione 22 – Sistema di punti materiali.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Lezione 02 - Misure ed Errori"
+              "title": "Struttura di Lezione 22 – Sistema di punti materiali"
             }
           },
           {
@@ -207,12 +207,12 @@
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
       "github-sync:Sync with Remote": false,
-      "realclaudian:Open Claudian": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99882f8d2dfc7edb",
+  "active": "17d3383102d80dc8",
   "lastOpenFiles": [
+    "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
     "Formazione/Università/Fisica/Lezione 22 – Sistema di punti materiali.md",
     "Formazione/Università/Fisica/Lezione 19 - Conservazione dell'energia meccanica.md",
     "Senza nome.base",
@@ -246,7 +246,6 @@
     "Formazione/Università/Fisica/Lezione 7 - MOTO CIRCOLARE E MOTI RELATIVI.md",
     "Formazione/Università/Fisica/Risposte domande_esame_fisica.md",
     "Formazione/Università/Fisica/Lezione 03 - I vettori.md",
-    "Formazione/Università/Fisica/Lezione 02 - Misure ed Errori.md",
     "Allianz/Az-italy/StoryBoard giornaliera attività DevOps.md",
     "Formazione/Università/Fisica/A9R17t502a_7wlja3_78s.tmp",
     "Formazione/Università/Fisica/A9R10vh8sc_11q004r_kkc.tmp",
