@@ -824,3 +824,219 @@ $$
 >
 > con $n$ espresso in $giri/min$.
 
+
+## Esercizio 4 - Puleggia con forza variabile nel tempo
+
+### Traccia
+
+Una puleggia ha:
+
+- raggio $R = 10 \, cm = 0.10 \, m$
+- momento d'inerzia $I = 1.0 \cdot 10^{-3} \, kg \, m^2$
+
+Sul bordo viene applicata tangenzialmente una forza:
+
+$F(t) = 0.50t + 0.30t^2$
+
+La puleggia inizialmente è ferma.
+
+Calcolare a $t = 3.0 \, s$:
+
+1. accelerazione angolare
+2. velocità angolare
+
+### Soluzione
+
+Il momento della forza è:
+
+$M = FR$
+
+e vale anche:
+
+$M = I\alpha$
+
+Quindi:
+
+$\alpha(t) = \frac{F(t)R}{I}$
+
+A $t = 3 \, s$:
+
+$F(3) = 0.50 \cdot 3 + 0.30 \cdot 3^2$
+
+$F(3) = 1.5 + 2.7 = 4.2 \, N$
+
+Quindi:
+
+$\alpha(3) = \frac{4.2 \cdot 0.10}{1.0 \cdot 10^{-3}}$
+
+$\alpha(3) = 420 \, rad/s^2$
+
+Per trovare la velocità angolare:
+
+$\alpha = \frac{d\omega}{dt}$
+
+quindi:
+
+$\omega(t) = \int \alpha(t) \, dt$
+
+Essendo:
+
+$\alpha(t) = \frac{R}{I}F(t)$
+
+si ha:
+
+$\omega(3) = \frac{R}{I}\int_0^3 (0.50t + 0.30t^2) \, dt$
+
+$\omega(3) = \frac{0.10}{1.0 \cdot 10^{-3}} \left[0.25t^2 + 0.10t^3\right]_0^3$
+
+$\omega(3) = 100(2.25 + 2.7)$
+
+$\omega(3) = 495 \, rad/s$
+
+---
+
+## Esercizio 5 - Puleggia e piano inclinato
+
+### Traccia
+
+Una puleggia di raggio:
+
+$R = 20 \, cm = 0.20 \, m$
+
+è montata su un piano inclinato e può ruotare senza attrito.
+
+Una massa:
+
+$m = 2.0 \, kg$
+
+scende lungo il piano inclinato di:
+
+$\theta = 20^\circ$
+
+con accelerazione:
+
+$a = 2.0 \, m/s^2$
+
+Calcolare il momento d'inerzia della puleggia.
+
+### Soluzione
+
+La relazione tra accelerazione lineare e angolare è:
+
+$a = \alpha R$
+
+quindi:
+
+$\alpha = \frac{a}{R}$
+
+Per la massa lungo il piano inclinato:
+
+$mg\sin\theta - T = ma$
+
+da cui:
+
+$T = m(g\sin\theta - a)$
+
+Il momento della tensione sulla puleggia è:
+
+$TR = I\alpha$
+
+Sostituendo:
+
+$\alpha = \frac{a}{R}$
+
+si ottiene:
+
+$TR = I\frac{a}{R}$
+
+quindi:
+
+$I = \frac{TR^2}{a}$
+
+Sostituendo la tensione:
+
+$I = \frac{m(g\sin\theta-a)R^2}{a}$
+
+cioè:
+
+$I = mR^2\left(\frac{g\sin\theta}{a}-1\right)$
+
+Risultato:
+
+$I = 0.054 \, kg \, m^2$
+
+---
+
+# Quesiti finali
+
+## Q.1 - Come è definito il momento di inerzia di un corpo rigido rispetto ad un asse?
+
+Per un sistema discreto di masse:
+
+$I = \sum_i m_i r_i^2$
+
+Per un corpo continuo:
+
+$I = \int r^2 \, dm$
+
+Se il corpo ha densità $\rho$:
+
+$I = \int \rho r^2 \, dV$
+
+---
+
+## Q.2 - Quanto vale l'energia cinetica di un corpo rigido che ruota a velocità angolare costante?
+
+$K = \frac{1}{2}I\omega^2$
+
+---
+
+## Q.3 - Enunciare il teorema di Huygens-Steiner
+
+Se $I_C$ è il momento d'inerzia rispetto ad un asse passante per il centro di massa, il momento d'inerzia rispetto ad un asse parallelo distante $h$ vale:
+
+$I_h = I_C + Mh^2$
+
+---
+
+# Formule da ricordare
+
+$v = \omega r$
+
+$I = \sum_i m_i r_i^2$
+
+$I = \int r^2 \, dm$
+
+$K = \frac{1}{2}I\omega^2$
+
+$I_h = I_C + Mh^2$
+
+$L = I\omega$
+
+$I_{in}\omega_{in} = I_{fin}\omega_{fin}$
+
+$M = \frac{dL}{dt}$
+
+$M = I\alpha$
+
+$M = FR$
+
+$a = \alpha R$
+
+$P = M\omega$
+
+---
+
+## Conversioni utili
+
+Se la velocità è in giri/min:
+
+$\omega = 2\pi\frac{n}{60}$
+
+Se la velocità è in giri/s:
+
+$\omega = 2\pi n$
+
+Se $\alpha$ varia nel tempo:
+
+$\omega(t) = \omega_0 + \int \alpha(t) \, dt$
